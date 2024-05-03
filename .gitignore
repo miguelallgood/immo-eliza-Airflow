@@ -1,0 +1,5 @@
+# Airflow
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+.airflow/
