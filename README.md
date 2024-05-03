@@ -1,7 +1,7 @@
 
 # Real Estate Market Monitoring with AirFlow
 
-![Airflow Logo](images\AirFlow.png)
+![Airflow](https://airflow.apache.org/images/feature-image.png)
 
 ## DAG Details
 
